@@ -32,32 +32,23 @@ git clone https://github.com/Aarzoo75/E-Commerce-Website-FrostFit.git
 3. Explore the files, and follow along with the tutorial on [YouTube](https://youtu.be/hwvjhS5Ut_k) for a detailed walkthrough.
 
 ## Essential Links
-
 - Clippy: [https://ionic.io/ionicons](https://ionic.io/ionicons)
 - Remix Icon: [https://remixicon.com/](https://remixicon.com/)
 - Swiper JS: [https://swiperjs.com/](https://swiperjs.com/)
 - Scroll Reveal: [https://scrollrevealjs.org/](https://scrollrevealjs.org/)
 
 ## Source Code
-
 You can find the complete source code for the Portfolio Project on Gumroad:
-
 - [Portfolio Project Repository](https://github.com/your-username/portfolio-project)
 
 ## Video Tutorial
-
 Need some extra guidance? Watch our video tutorial on setting up and customizing your portfolio:
-
 - [Portfolio Project Tutorial](#)
 
 ## Connect with Me
+If you want to contact with me you can reach me at [Twitter](https://twitter.com/withaarzoo).
 
-Have questions or need assistance with the Portfolio Project? Feel free to reach out:
-
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle) 
-
-## Demo Screenshorts
+## Demo Screenshots
 
 ---
 
