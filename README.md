@@ -57,7 +57,7 @@ Have questions or need assistance with the Portfolio Project? Feel free to reach
 - Email: [your.email@example.com](mailto:your.email@example.com)
 - Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle) 
 
-## Preview
+## Demo Screenshorts
 
 ---
 
