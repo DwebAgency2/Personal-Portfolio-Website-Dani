@@ -1,6 +1,21 @@
-# Portfolio Project
+<div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/withaarzoo/Personal-Portfolio-Website-Dani)
+  ![GitHub stars](https://img.shields.io/github/stars/withaarzoo/Personal-Portfolio-Website-Dani?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/withaarzoo/Personal-Portfolio-Website-Dani?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/withaarzoo?style=social)](https://twitter.com/intent/follow?screen_name=withaarzoo)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/SAu7e09vXoQ?style=social)](https://youtu.be/SAu7e09vXoQ)
 
-Welcome to the Portfolio Project! This project serves as a customizable template for creating your own online portfolio to showcase your work, skills, and achievements.
+  <br />
+  <br />
+
+  <h2 align="center">Personal Portfolio Website</h2>
+
+  Welcome to the Portfolio Project! This project is a customizable template for creating your online portfolio to showcase your work, skills, and achievements.
+
+  <a href="https://www.youtube.com/@codewithaarzoo"><strong>➥ Watch Tutorial</strong></a>
+
+</div>
 
 ## Getting Started
 
@@ -18,12 +33,14 @@ git clone https://github.com/Aarzoo75/E-Commerce-Website-FrostFit.git
 
 ## Essential Links
 
-- [Live Demo](#): Check out a live demo of the Portfolio Project.
-- [Documentation](#): Detailed documentation on customizing and deploying the portfolio.
+- Clippy: [https://ionic.io/ionicons](https://ionic.io/ionicons)
+- Remix Icon: [https://remixicon.com/](https://remixicon.com/)
+- Swiper JS: [https://swiperjs.com/](https://swiperjs.com/)
+- Scroll Reveal: [https://scrollrevealjs.org/](https://scrollrevealjs.org/)
 
 ## Source Code
 
-You can find the complete source code for the Portfolio Project on GitHub:
+You can find the complete source code for the Portfolio Project on Gumroad:
 
 - [Portfolio Project Repository](https://github.com/your-username/portfolio-project)
 
