@@ -24,7 +24,7 @@ To get started with the Portfolio Project, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Aarzoo75/E-Commerce-Website-FrostFit.git
+git clone https://github.com/withaarzoo/Personal-Portfolio-Website-Dani.git
 ```
 
 2. Open the project in your favorite code editor.
