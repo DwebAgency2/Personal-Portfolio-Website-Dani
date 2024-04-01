@@ -1,10 +1,11 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/withaarzoo/Personal-Portfolio-Website-Dani)
-  ![GitHub stars](https://img.shields.io/github/stars/withaarzoo/Personal-Portfolio-Website-Dani?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/withaarzoo/Personal-Portfolio-Website-Dani?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/withaarzoo?style=social)](https://twitter.com/intent/follow?screen_name=withaarzoo)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/SAu7e09vXoQ?style=social)](https://youtu.be/SAu7e09vXoQ)
+![GitHub repo size](https://img.shields.io/github/repo-size/withaarzoo/Personal-Portfolio-Website-Dani)
+![GitHub stars](https://shields.io/github/stars/withaarzoo/Personal-Portfolio-Website-Dani?style=social)
+![GitHub forks](https://shields.io/github/forks/withaarzoo/Personal-Portfolio-Website-Dani?style=social)
+[![Twitter Follow](https://shields.io/twitter/follow/withaarzoo?style=social)](https://twitter.com/intent/follow?screen_name=withaarzoo)
+[![YouTube Video Views](https://shields.io/youtube/views/SAu7e09vXoQ?style=social)](https://youtu.be/SAu7e09vXoQ)
+
 
   <br />
   <br />
