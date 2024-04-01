@@ -14,7 +14,7 @@
 
   Welcome to the Portfolio Project! This project is a customizable template for creating your online portfolio to showcase your work, skills, and achievements.
 
-  <a href="https://www.youtube.com/@codewithaarzoo"><strong>➥ Watch Tutorial</strong></a>
+  <a href="https://youtu.be/elFHimbsxtQ"><strong>➥ Watch Tutorial</strong></a>
 
 </div>
 
@@ -44,7 +44,7 @@ You can find the complete source code for the Portfolio Project on Gumroad:
 
 ## Video Tutorial
 Need some extra guidance? Watch our video tutorial on setting up and customizing your portfolio:
-- [Portfolio Project Tutorial](#)
+- [Portfolio Project Tutorial](https://youtu.be/elFHimbsxtQ)
 
 ## Connect with Me
 If you want to contact with me you can reach me at [Twitter](https://twitter.com/withaarzoo).
