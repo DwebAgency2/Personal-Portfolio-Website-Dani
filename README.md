@@ -9,7 +9,7 @@
   <br />
   <br />
 
-  <h2 align="center">Personal Portfolio Website</h2>
+  <h2 align="center">Personal Portfolio Website </h2>
 
   Welcome to the Portfolio Project! This project is a customizable template for creating your online portfolio to showcase your work, skills, and achievements.
 
