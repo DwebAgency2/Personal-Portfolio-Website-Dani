@@ -49,7 +49,12 @@ Need some extra guidance? Watch our video tutorial on setting up and customizing
 If you want to contact with me you can reach me at [Twitter](https://twitter.com/withaarzoo).
 
 ## Demo Screenshots
+![dani portfolio Desktop Demo](./readme-images/desktop1.png "Desktop Demo")
+![dani portfolio Desktop Demo](./readme-images/desktop2.png "Desktop Demo")
+![dani portfolio Mobile Demo](./readme-images/mobile1.png "Mobile Demo")
+![dani portfolio Mobile Demo](./readme-images/mobile2.png "Mobile Demo")
+![dani portfolio Mobile Demo](./readme-images/mobile3.png "Mobile Demo")
 
 ---
 
-**Happy Portfoling!** 🚀
+**Happy Coding!** 🚀
