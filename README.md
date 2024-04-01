@@ -33,10 +33,8 @@ git clone https://github.com/withaarzoo/Personal-Portfolio-Website-Dani.git
 3. Explore the files, and follow along with the tutorial on [YouTube](https://youtu.be/hwvjhS5Ut_k) for a detailed walkthrough.
 
 ## Essential Links
-- Clippy: [https://ionic.io/ionicons](https://ionic.io/ionicons)
-- Remix Icon: [https://remixicon.com/](https://remixicon.com/)
-- Swiper JS: [https://swiperjs.com/](https://swiperjs.com/)
-- Scroll Reveal: [https://scrollrevealjs.org/](https://scrollrevealjs.org/)
+- IonIcons : [https://ionic.io/ionicons](https://ionic.io/ionicons)
+- Email JS : [https://www.emailjs.com/](https://www.emailjs.com/)
 
 ## Source Code
 You can find the complete source code for the Portfolio Project on Gumroad:
