@@ -38,7 +38,7 @@ git clone https://github.com/withaarzoo/Personal-Portfolio-Website-Dani.git
 
 ## Source Code
 You can find the complete source code for the Portfolio Project on Gumroad:
-- [Click here](https://arzoo6.gumroad.com/l/vqkhv)
+- [Click here](https://rb.gy/7bhfhn)
 
 ## Video Tutorial
 Need some extra guidance? Watch our video tutorial on setting up and customizing your portfolio:
