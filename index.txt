@@ -34,7 +34,7 @@ https://dribbble.com/
 
 
 aria-label = open menu
-<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+
 
 
 
@@ -127,7 +127,7 @@ See Project
 
 alt = Winter Clothes Website
 
-
+#---------- 2 ----------#
 bg-color - #cbddc05c
 box-shadow - rgba(203, 221, 192, 0.611) 0px 10px 50px
 color - #6e9545
@@ -138,7 +138,7 @@ Dani designed a responsive e-commerce website website. Showcasing mouthwatering 
 
 alt = E-Commerce Website
 
-
+#---------- 3 ----------#
 bg-color - #c1d0ed65
 box-shadow - rgba(193, 208, 237, 0.611) 0px 10px 50px
 color - #3e63ae
@@ -149,7 +149,7 @@ Dani built a functional replica of GitHub using HTML, CSS, and JavaScript. This 
 
 alt = Dynamic GitHub Clone
 
-
+#---------- 4 ----------#
 bg-color - #e3c4c56e
 box-shadow - rgba(227, 196, 197, 0.611) 0px 10px 50px
 color - #9E090F
