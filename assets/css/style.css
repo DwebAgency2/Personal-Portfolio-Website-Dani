@@ -54,7 +54,31 @@
   --transition-3: 0.3s ease-in-out;
 }
 
-/*---------------*/
+/*-----Reset----------*/
+
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+li {
+  list-style: none;
+}
+
+a,
+img,
+span,
+button,
+icon-icon {
+  display: block;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
 /*---------------*/
 /*---------------*/
 /*---------------*/
